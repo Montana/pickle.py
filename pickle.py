@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import _pickle as pickle
-import dill 
+import dill as dill
 print(pickle.__doc__)
 
 def main():
